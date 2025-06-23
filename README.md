@@ -21,22 +21,13 @@
 ---
 
 ### 💻 Languages I Code In
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
 ---
 
 ### 🛠️ IDEs & Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/arduino.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/raspberry-pi.png"/>
-<img height="50" width="50" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-8051-electronic-devices-flat-icons-inmotus-design.png" title="8051 Microcontroller"/>
-<img height="50" width="50" src="https://img.icons8.com/external-outline-juicy-fish/60/external-chip-electronics-outline-outline-juicy-fish.png" title="PIC Microcontroller"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/linux.png" title="Linux OS"/>
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/raspberry-pi.png"/>
+<img height="50" width="50" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-8051-electronic-devices-flat-icons-inmotus-design.png" title="8051 Microcontroller"/> <img height="50" width="50" src="https://img.icons8.com/external-outline-juicy-fish/60/external-chip-electronics-outline-outline-juicy-fish.png" title="PIC Microcontroller"/> <img height="50" width="50" src="https://img.icons8.com/color/48/linux.png" title="Linux OS"/>
 ---
 
 😄 **Pronouns:** Techie | Builder | Learner  
