@@ -14,7 +14,8 @@
 - 💼 Looking for **Internship / Job** opportunities in:
   - Embedded Systems  
   - IoT Applications  
-  - PCB Design & Development  
+  - PCB Design & Development
+  - Research and Development Works
 - 💡 **Final Year Project:** *Decentralized Solar-Powered IoT Mesh Communication Network with Smart Routing for Disaster Resilience* (Ongoing / Advanced Stage)  
 - 💬 Ask me anything about **Electronics, Sensors, Boards, or Embedded Technologies**!  
 - 📫 Connect with me on LinkedIn & Instagram:  
